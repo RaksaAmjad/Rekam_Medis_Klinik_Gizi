@@ -1,0 +1,9 @@
+Login Admin
+=================
+username = admin
+password = password
+
+Login User
+==================
+username = dokter
+password = 1
